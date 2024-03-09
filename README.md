@@ -10,7 +10,7 @@ This project is a starting point for a Flutter application.
 <img src="images/tampilan.jpg" />
 
 ## ID CARD Diagram
-<img src="images/diagram.jpg" />
+<img src="images/diagram.png" />
 
 A few resources to get you started if this is your first Flutter project:
 
