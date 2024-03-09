@@ -1,10 +1,16 @@
-# i_am_sorry
+# ID CARD
 
 A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+## ID CARD Preview
+<img src="images/tampilan.jpg" />
+
+## ID CARD Diagram
+<img src="images/diagram.jpg" />
 
 A few resources to get you started if this is your first Flutter project:
 
